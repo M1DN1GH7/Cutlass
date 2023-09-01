@@ -1,2 +1,2 @@
 # Cutlass
-Repo for 
+Repo for the Cutlass Modpack
